@@ -13,8 +13,4 @@ Este é um site simples que ensina como preparar um delicioso bolo de chocolate.
 - **HTML5**: Estrutura do site.
 - **CSS3**: Estilização do site.
 
-## 📦 Como rodar o projeto
 
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/usuario/site-bolo-chocolate.git
