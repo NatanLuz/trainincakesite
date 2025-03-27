@@ -1,7 +1,6 @@
 # Projeto: Site de Receitas de Bolo de Chocolate
 
-Este é um projeto simples de um site de receitas de bolo de chocolate. Ele foi desenvolvido para praticar e melhorar habilidades em HTML, CSS e JavaScript.
-
+Este é um projeto simples de um site de receitas de bolo de chocolate. Ele foi desenvolvido para praticar e melhorar habilidades em HTML & CSS.
 ## Introdução
 
 Este projeto apresenta um site com a receita de bolo de chocolate, sua história, lista de ingredientes, modo de preparo e uma galeria. O objetivo é fornecer uma interface amigável e interativa para qualquer pessoa que queira aprender a fazer bolo de chocolate.
@@ -11,8 +10,7 @@ Funcionalidades:
 - Lista de ingredientes para a receita.
 - Explicação do modo de preparo passo a passo.
 - Galeria de imagens relacionadas à receita.
-- Alerta de boas-vindas ao carregar a página.
-
+- Alerta de boas-vindas ao carregar a página.(algo bem simples mas bem interativo e tranquilo de desenvolver com apenas html e css.
 ## ⚙️ Pré-requisitos
 
 Antes de começar, certifique-se de que você atende aos seguintes requisitos:
