@@ -27,8 +27,6 @@ Siga os passos abaixo para rodar o projeto em seu ambiente local.
 
 3. Abra o arquivo index.html no seu navegador ou com um live server.
 
-🛠️ Executando os testes
-Atualmente, não há testes automatizados implementados neste projeto, tudo codado e feito sem IA.
 
 📦 Tecnologias usadas:
 HTML5
