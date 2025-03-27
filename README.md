@@ -1,3 +1,6 @@
+https://imgur.com/a/7maFuHT
+
+
 # Projeto: Site de Receitas de Bolo de Chocolate
 
 Este é um projeto simples de um site de receitas de bolo de chocolate. Ele foi desenvolvido para praticar e melhorar habilidades em HTML & CSS.
