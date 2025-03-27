@@ -20,9 +20,7 @@ Antes de começar, certifique-se de que você atende aos seguintes requisitos:
 - Editor de código para visualizar e editar o código-fonte (VSCode, Sublime Text, etc.).
 
 ## 🔨 Guia de instalação
-
 Siga os passos abaixo para rodar o projeto em seu ambiente local.
-
 1. Clone o repositório:
    ```bash
    git clone https://github.com/archivesysl/trainincakesite
@@ -31,14 +29,11 @@ Siga os passos abaixo para rodar o projeto em seu ambiente local.
 
 3. Abra o arquivo index.html no seu navegador ou com um live server.
 
-
 🛠️ Executando os testes
 Atualmente, não há testes automatizados implementados neste projeto, tudo codado e feito sem IA.
 
-📦 Tecnologias usadas
-Este projeto foi criado utilizando:
+📦 Tecnologias usadas:
 HTML5
-
 CSS3
 
 👷 Autores
