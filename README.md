@@ -1,4 +1,4 @@
-# Projeto: Site de Receitas de Bolo de Chocolate
+# Projeto: Site de Receitas de Bolo
 
 Visualize aqui o projeto : https://imgur.com/a/7maFuHT
 
