@@ -1,56 +1,61 @@
-# Projeto: Site de Receitas de Bolo
+## Project: Cake Recipe Website
 
-Visualize aqui o projeto : https://imgur.com/a/7maFuHT
+View the project here: https://imgur.com/a/7maFuHT
 
-Este é um projeto simples de um site de receitas de bolo de chocolate. Ele foi desenvolvido para praticar e melhorar habilidades em HTML & CSS.
+This is a simple project for a chocolate cake recipe website. It was developed to practice and improve skills in HTML & CSS.
 
-## Introdução
-Este projeto apresenta um site com a receita de bolo de chocolate, sua história, lista de ingredientes, modo de preparo e uma galeria. O objetivo é fornecer uma interface amigável e interativa para qualquer pessoa que queira aprender a fazer bolo de chocolate, de uma maneira simples 
+Introduction
+This project features a website with the chocolate cake recipe, its history, a list of ingredients, preparation steps, and a gallery. The goal is to provide a friendly and interactive interface for anyone who wants to learn how to make chocolate cake in a simple way.
 
-Funcionalidades:
-- Exibe a história do bolo de chocolate.
-- Lista de ingredientes para a receita.
-- Explicação do modo de preparo passo a passo.
-- Galeria de imagens relacionadas à receita.
-- Alerta de boas-vindas ao carregar a página.(algo bem simples mas bem interativo e tranquilo de desenvolver com apenas html e css.
+Features:
 
-##  Pré-requisitos
+Displays the history of chocolate cake.
 
-Antes de começar, certifique-se de que você atende aos seguintes requisitos:
-- Um navegador da web moderno (Google Chrome, Firefox, etc.).
-- Editor de código para visualizar e editar o código-fonte (VSCode, Sublime Text, etc.).
+Lists the ingredients for the recipe.
 
-##  Guia de instalação
-Siga os passos abaixo para rodar o projeto em seu ambiente local.
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/archivesysl/trainincakesite
-2. Acesse o diretório do projeto:
-   cd trainincakesite
+Step-by-step explanation of the preparation method.
 
-3. Abra o arquivo index.html no seu navegador ou com um live server.
+Image gallery related to the recipe.
 
+Welcome alert on page load (a simple but interactive feature easily made with just HTML and CSS).
 
-Tecnologias usadas:
+Prerequisites
+Before starting, make sure you meet the following requirements:
+
+A modern web browser (Google Chrome, Firefox, etc.)
+A code editor to view and edit the source code (VSCode, Sublime Text, etc.)
+
+Installation Guide
+Follow the steps below to run the project locally:
+
+Clone the repository:
+
+git clone https://github.com/archivesysl/trainincakesite
+Navigate to the project directory:
+
+cd trainincakesite
+
+Open the index.html file in your browser or with a live server.
+
+Technologies Used
 HTML5
+
 CSS3
 
-Autores
-Natan Da Luz - Desenvolvedor Fullstack - @archivesysl
+Author
+Natan Da Luz
 
-Licença
-Este projeto está sob a licença MIT - consulte o arquivo LICENSE.md para obter mais detalhes.
 
-💭 FAQ - Perguntas frequentes
-1. Como posso rodar este projeto no meu ambiente local?
-Siga o guia de instalação acima para configurar o projeto localmente.
+💭 FAQ - Frequently Asked Questions
+How can I run this project locally?
+Follow the installation guide above to set up the project locally.
 
-2. Usou linguagem de programação ?
-   R: Não, apenas marcação e estilização.
 
-3. Por Que não utilizou nenhuma linguagem de programação ?
-   R: O intuito do projeto foi além de mostrar meus conhecimentos em HTML E CSS, de forma intuitiva a mostra que mesmo sem uma linguagem de programação é possivel criar sites / landing pages muito boas e interativas
+Did you use any programming language?
+A: No, only markup and styling.
 
-Expressões de gratidão
+Why didn’t you use any programming language?
+A: The purpose of the project was to showcase my HTML and CSS skills intuitively, demonstrating that even without a programming language it is possible to create very good and interactive websites/landing pages.
 
-Agradeço a todos que visitaram o projeto e forneceram feedback tanto por email ou até mesmo em meu tiktok. Para suporte ou perguntas, entre em contato via email: natandaluz01@gmail.com.
+Contact me via email: natandaluz01@gmail.com.
+
