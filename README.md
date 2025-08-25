@@ -12,13 +12,6 @@
 
 ---
 
-## 🔗 View the Project  
-👉 [Live Demo (Imgur Preview)](https://imgur.com/a/7maFuHT)  
-
-![Cake Website Preview](https://i.imgur.com/7maFuHT.jpeg)  
-
----
-
 ## 📖 About the Project  
 This is a simple project for a **chocolate cake recipe website**, developed to practice and improve my **HTML & CSS** skills.  
 
@@ -26,7 +19,7 @@ It provides a friendly and interactive interface for anyone who wants to learn h
 
 ---
 
-## ✨ Features  
+##  Features  
 - 📜 History of the chocolate cake  
 - 📝 List of ingredients  
 - 👩‍🍳 Step-by-step preparation method  
@@ -35,13 +28,13 @@ It provides a friendly and interactive interface for anyone who wants to learn h
 
 ---
 
-## 🛠️ Prerequisites  
+##  Prerequisites  
 - A modern web browser (Google Chrome, Firefox, etc.)  
 - A code editor to view and edit the source code (VSCode, Sublime Text, etc.)  
 
 ---
 
-## 🚀 Installation Guide  
+##  Installation Guide  
 
 Clone the repository:  
 ```bash
